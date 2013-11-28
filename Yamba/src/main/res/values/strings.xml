@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Yamba</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_tweet">New Tweet</string>
+    <string name="button_tweet">Tweet</string>
+    <string name="activity_tweet_title">New Tweet</string>
+    <string name="edit_tweet_hint">"What's happening?"</string>
+    <string name="post_status_succeed">Successfully posted Tweet</string>
+    <string name="post_status_fail">Failed to post Tweet</string>
+
+</resources>

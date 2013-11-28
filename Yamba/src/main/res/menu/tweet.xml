@@ -1,0 +1,9 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".TweetActivity" >
+    
+    <item android:id="@+id/action_tweet"
+        android:title="@string/action_tweet"
+        android:icon="@android:drawable/ic_menu_edit"
+        android:showAsAction="ifRoom|withText" />
+</menu>
